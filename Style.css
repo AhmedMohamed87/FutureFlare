@@ -1,0 +1,109 @@
+*{     
+    margin: 0px;
+}
+.upper{
+    background-image: url('BackgroundImage.jpeg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+     background-size: 100%;    
+     color: aliceblue;
+}
+.Header{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+font-size: 1.5rem;
+align-items: center;
+padding: 1rem;
+
+}
+
+.Contant{
+    display: flex;
+    flex-direction: row;
+   
+}
+.Contant ul{
+    list-style-type: none;
+}
+.Contant ul li{
+    display: inline;
+    padding-right: 2rem;
+  
+    
+}
+.Contant a{
+  text-decoration: none;
+  color: aliceblue;
+}
+.SignBtn{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgb(224, 221, 173);
+    padding: 0.6rem 0.9rem;
+    border-radius: 1rem;
+    color: brown;
+
+}
+    .SignBtn:hover{
+        box-shadow:  0.5rem .5rem 0.2rem rgb(138, 92, 31);
+    }
+.Home h1{
+   text-align: center;
+   margin-top: 20%;
+   font-size: 5rem;
+   
+}
+.programmingImage , .lawimage ,  .icdlimage{
+    width: 450px;
+    margin-left: 1rem;
+    border-radius: 2rem;
+    margin-top: 1.5rem;
+}
+
+  .programming , .law , .icdl {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3.5rem;
+    font-size: 1.5rem;
+    
+  }
+  .programming p , .law p  , .icdl p {
+    margin-top: 9rem;
+    margin-left:  4rem;
+    margin-right:  4rem;
+    text-align: justify;
+    text-justify: inter-word;
+    
+    
+  }
+  .programming button , .law  button  , .icdl  button {
+    margin-left: 25rem;
+    margin-top: 4rem;
+    padding: 1rem 5rem;
+    border-radius: 2rem;
+    background-color: rgb(224, 221, 173);
+    color: brown;
+    border: none;
+    font-weight: bold;
+  }
+  .programming button:hover , .law  button:hover  , .icdl  button:hover {
+    padding: 1.2rem 6rem;
+    box-shadow: 0.5rem .5rem rgba(179, 148, 84, 0.733);
+  }
+  #aboutlink{
+    background-color:rgb(138, 92, 31); 
+    padding: 2rem;
+  }
+  .AboutUs{
+    text-align: center;
+  }
+  .aboutpar{
+
+    margin-top: 3rem;
+    margin-left:  4rem;
+    margin-right:  4rem;
+    text-align: justify;
+    text-justify: inter-word;
+  }
