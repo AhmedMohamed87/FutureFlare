@@ -1,0 +1,162 @@
+
+*{
+    background-color: black;
+    border-radius: 5rem;
+} 
+.backimg{
+    background-image: url(hed3.jpeg);
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color:  rgb(73, 61, 233);
+    font-size: 5rem;
+    text-decoration: line-through;
+    background-image: linear-gradient(black)
+}
+
+.frontp1{
+    color:  rgb(73, 61, 233);
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+    padding: 0;
+    text-decoration: line-through;
+    
+}
+.hp1{
+    color:  white;
+    font-size: 4rem;
+    text-decoration: underline;
+    box-shadow: 0.5rem .5rem  rgb(73, 61, 233);
+    display: flex;
+    justify-content: center;
+}
+.pragH{
+    text-align: justify;
+    text-justify: inter-word;
+    color: aliceblue;
+    font-size: 3rem;
+    padding: 1rem;
+}
+
+
+
+
+
+.pcss1{
+    color:  white;
+    font-size: 6rem;
+    text-decoration: underline;
+    box-shadow: 0.5rem .5rem  rgb(73, 61, 233);
+    display: flex;
+    justify-content: center;
+
+}
+
+.pcss{
+    text-align: justify;
+    text-justify: inter-word;
+    color: aliceblue;
+    font-size: 3rem;
+    padding: 1rem;
+
+}
+.but1{
+    display: flex;
+    justify-content: space-between;
+
+}
+.button1{
+ color: white;
+    width: 20rem;
+height: 8vh;
+margin-right: 10rem;
+margin-top: 15rem;
+box-shadow: 0.2rem .2rem  rgb(73, 61, 233);
+font-size: 1.5rem;
+
+}
+
+.but2{
+    display: flex;
+    justify-content: space-between;
+
+
+} 
+.button2{ color: white;
+width: 20rem;
+height: 8vh;
+margin-right: 10rem;
+margin-top: 15rem;
+box-shadow: 0.2rem .2rem  rgb(73, 61, 233);
+font-size: 1.5rem;
+
+}
+.pjs1{
+    color:  white;
+    font-size: 6rem;
+    text-decoration: underline;
+    box-shadow: 0.5rem .5rem  rgb(73, 61, 233);
+    display: flex;
+    justify-content: center;
+
+}
+.but3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.button3{
+    color: white;
+width: 20rem;
+height: 8vh;
+margin-right: 10rem;
+margin-top: 10rem;
+box-shadow: 0.2rem .2rem  rgb(73, 61, 233);
+font-size: 1.5rem;
+
+
+}
+.pjs{
+    text-align: justify;
+    text-justify: inter-word;
+    color: aliceblue;
+    font-size: 3rem;
+    padding: 1rem;
+}
+.imgjs{
+    width: 20rem;
+    border-radius: 15rem;
+    margin-left: 5rem;
+}
+.contact2{
+    color:  white;
+    font-size: 6rem;
+    text-decoration: underline;
+    box-shadow: 0.5rem .5rem  rgb(73, 61, 233);
+    display: flex;
+    justify-content: center;
+    
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.s1,.s2,.s3,.s4{
+    width: 50px;
+    
+}
+.us ,.ps,.massage,.sup{
+    color: white;
+}
+#conact {
+    margin-right: 22rem;
+    margin-top: 5rem ;
+}

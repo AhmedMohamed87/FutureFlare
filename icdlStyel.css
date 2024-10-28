@@ -1,0 +1,43 @@
+
+.Phe{ 
+    margin-left: 40rem;
+
+
+}
+ 
+.wordImg,.excelImg,.powerImg{
+    width: 550px;
+    margin-left: 1rem;
+    border-radius: 2rem;
+    margin-top: 5rem;
+}
+.Pword,.Pexcel,.Ppower{
+    margin-top: 9rem;
+    margin-left:  4rem;
+    margin-right:  4rem;
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 20px;
+}
+ .Aword,.Aexcel,.Apower{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3.5rem;
+    font-size: 1.5rem;
+ }
+ .Aword button,.Aexcel button,.Apower button{
+    margin-left: 25rem;
+    margin-top: 4rem;
+    padding: 1rem 5rem;
+    border-radius: 2rem;
+    background-color:rgb(59, 59, 102);
+    color: white;
+    border: none;
+    font-weight: bold;
+    
+ }
+  .Aword button:hover, .Aexcel button:hover, .Apower button:hover{
+    padding: 1.2rem 6rem;
+    box-shadow:  0.5rem .5rem rgb(53, 191, 209);
+    
+  }

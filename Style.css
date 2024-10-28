@@ -75,20 +75,23 @@ padding: 1rem;
     margin-right:  4rem;
     text-align: justify;
     text-justify: inter-word;
+  margin-bottom: 3rem;
     
     
   }
-  .programming button , .law  button  , .icdl  button {
+  .programming a , .law  a  , .icdl  a {
     margin-left: 25rem;
-    margin-top: 4rem;
+    margin-top: 2rem;
     padding: 1rem 5rem;
     border-radius: 2rem;
     background-color: rgb(224, 221, 173);
     color: brown;
     border: none;
     font-weight: bold;
+    text-decoration: none;
+  
   }
-  .programming button:hover , .law  button:hover  , .icdl  button:hover {
+  .programming a:hover , .law  a:hover  , .icdl  a:hover {
     padding: 1.2rem 6rem;
     box-shadow: 0.5rem .5rem rgba(179, 148, 84, 0.733);
   }
@@ -107,3 +110,4 @@ padding: 1rem;
     text-align: justify;
     text-justify: inter-word;
   }
+  

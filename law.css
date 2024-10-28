@@ -1,0 +1,135 @@
+
+*{
+    margin: 0px;
+}
+.Header{background-image: url(lawhed.jpg);
+    background-repeat: no-repeat;
+   
+    height: 100vh;
+    background-size: 100%;
+    font-size: 6rem;
+    padding: 2rem;
+    color: goldenrod,
+    
+
+}
+.pheder{
+    margin-top:10 rem;
+    color:  white;
+    margin-left: 50rem;
+
+}
+.hac{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    text-decoration: none;
+    
+    background-color:  rgba(114, 84, 7, 0.781) ;
+}
+.hac ul li {
+    display: inline;
+    padding: 5rem;
+    font-size: 2rem;
+    text-decoration: none;
+    color: aliceblue;
+    flex-direction: row;
+}
+.hac a{
+    text-decoration: none;
+    color: white;
+}
+ .ourP{
+    font-size: 6rem;
+    margin-left: 33rem;
+    color: aliceblue;
+ }
+ .icon{
+    width: 20rem;
+    border-radius: 5rem;
+
+ }
+ .iconp{
+    display: flex;
+    justify-content: space-between;
+    
+    
+ }
+
+ .Pname{
+    display: flex;
+    justify-content: space-between;
+    font-size: 3rem;
+    color: aliceblue;
+ }
+ .back{
+    background-color: black;
+    padding: 1rem;
+ }
+ .colorb{
+    background-color:rgba(114, 84, 7, 0.781) ;
+    padding: 1rem;
+ }
+ .contentUS{
+    width: 50px;
+ }
+ .imgCON{
+    width: 10rem;
+    border-radius: 10rem;
+    margin-top: 3rem;
+    margin-left: 1.5rem;
+ }
+ 
+ .massage{
+   
+   margin-bottom: 1rem;
+   margin-left: 2rem;
+ }
+ 
+
+ .bc{
+   background-color: black;
+
+ }
+ .co{
+   margin-left: 25rem;
+   border: 4rem;
+ }
+ .pcon{
+   color: aliceblue;
+   font-size: 3rem;
+   margin-left: 2rem;
+ }
+ .about{
+   display: flex;
+   justify-content: center;
+   font-size: 4rem;
+   color: aliceblue;
+ }
+ .pragrafAbo{
+   color: aliceblue;
+   font-size: 1rem;
+   text-align: justify;
+    text-justify: inter-word;
+    margin: 1rem;
+ }
+ input::placeholder ,textarea::placeholder{
+   color:rgba(114, 84, 7, 0.781);
+  background-color: black;
+   font-weight: bold;
+
+ }
+ 
+ input , textarea{
+   border-radius: 2rem;
+   color:white;
+   background-color: black;
+ }
+ .sup{
+   color:rgba(114, 84, 7, 0.781);
+   margin: 1rem;
+ }
+ .us,.ps{
+   margin: 1rem;
+   
+ }
